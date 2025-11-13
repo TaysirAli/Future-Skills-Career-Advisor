@@ -42,7 +42,7 @@ Para rodar o projeto em ambiente local:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [INSERIR SEU LINK PÚBLICO DO REPOSITÓRIO AQUI]
+    git clone [https://github.com/TaysirAli/Future-Skills-Career-Advisor/]
     cd GS-Python
     ```
 
